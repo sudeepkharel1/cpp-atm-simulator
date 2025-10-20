@@ -1,2 +1,6 @@
 # cpp-atm-simulator
-ATM Simulation – Bank Account Manager
+This is a simple C++ ATM program. It lets you:
+- Check balance
+- Deposit money
+- Withdraw money
+- Exit
